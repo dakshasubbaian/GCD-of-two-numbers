@@ -13,7 +13,7 @@ To write a program to find the GCD of two numbers using function.
 3. Compare the two values, to find the smaller number.
 4. Use for() and if() loop to find the GCD of the two numbers.
 
-## PROGRAM:#Square Root of the Number by Newton's Method.
+## PROGRAM:
 ```
 #Developed by:Daksha Subbaian
 #Register Number:23003584
@@ -27,9 +27,9 @@ def gcd():
 ```
 
 
-## Output:
+## OUTPUT:
 ![output](/output2a.png)
 
 
-## Result:
+## RESULT:
 Thus the program to find the GCD of two numbers is written and verified using python programming.
