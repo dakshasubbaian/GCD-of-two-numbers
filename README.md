@@ -15,6 +15,7 @@ To write a program to find the GCD of two numbers using function.
 
 ## PROGRAM:
 ```
+#GCD of two numbers
 #Developed by:Daksha Subbaian
 #Register Number:23003584
 def gcd():
@@ -28,7 +29,7 @@ def gcd():
 
 
 ## OUTPUT:
-![output](/output2a.png)
+![output](/output.png)
 
 
 ## RESULT:
