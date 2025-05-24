@@ -29,7 +29,8 @@ def gcd():
 
 
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/06dd4912-c228-4baf-83a6-ba73b3d45a5f)
+![image](https://github.com/user-attachments/assets/e89d63fa-ce1a-4f92-86ee-1aa0056a24d6)
+
 
 
 
